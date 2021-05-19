@@ -16,47 +16,45 @@ I choose the prophet model.
 ![image](https://user-images.githubusercontent.com/70241561/118751884-7a08ab80-b838-11eb-98e2-f9baa2428588.png)
 
 
-![image](https://user-images.githubusercontent.com/70241561/118751916-88ef5e00-b838-11eb-97c7-d3bd05d1fac6.png)
-
 My baseline.
 
+![image](https://user-images.githubusercontent.com/70241561/118751916-88ef5e00-b838-11eb-97c7-d3bd05d1fac6.png)
 
-![image](https://user-images.githubusercontent.com/70241561/118751937-9573b680-b838-11eb-9f6b-59aba0a8f347.png)
+
 Random Walk noise
 
+![image](https://user-images.githubusercontent.com/70241561/118751937-9573b680-b838-11eb-9f6b-59aba0a8f347.png)
 
-
-![image](https://user-images.githubusercontent.com/70241561/118751964-a1f80f00-b838-11eb-9afe-343d211e2579.png)
 
 Using a cuadratic function for the trend 
 
-![image](https://user-images.githubusercontent.com/70241561/118752019-bdfbb080-b838-11eb-87ce-fbb7b7e60aa0.png)
+![image](https://user-images.githubusercontent.com/70241561/118751964-a1f80f00-b838-11eb-9afe-343d211e2579.png)
+
 
 Combining the quadratic with months. P-values of months were to high
+
+![image](https://user-images.githubusercontent.com/70241561/118752019-bdfbb080-b838-11eb-87ce-fbb7b7e60aa0.png)
 
 
 ![image](https://user-images.githubusercontent.com/70241561/118752063-d23fad80-b838-11eb-897f-74ed2de9a75a.png)
 
+Prophet prediction
 
 ![image](https://user-images.githubusercontent.com/70241561/118752096-e1bef680-b838-11eb-8b4c-95284ae9c60c.png)
 
-Prophet prediction
+Prophet components
 
 ![image](https://user-images.githubusercontent.com/70241561/118752114-ea173180-b838-11eb-8089-429583806540.png)
 
-Prophet components
-
-
+The RNN architecture
 
 ![image](https://user-images.githubusercontent.com/70241561/118752185-01561f00-b839-11eb-8954-8230228cf4d6.png)
 
-The RNN architecture
-
-
+The final scores
 
 ![image](https://user-images.githubusercontent.com/70241561/118752222-10d56800-b839-11eb-8f80-03a710928653.png)
 
-The final scores
+
 
 
 
