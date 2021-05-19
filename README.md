@@ -54,7 +54,14 @@ The final scores
 
 ![image](https://user-images.githubusercontent.com/70241561/118752222-10d56800-b839-11eb-8f80-03a710928653.png)
 
+---------------------
 
+Finally the implementation with flask
+
+
+![image](https://user-images.githubusercontent.com/70241561/118752388-60b42f00-b839-11eb-94d4-bac5994cfba8.png)
+
+![image](https://user-images.githubusercontent.com/70241561/118752399-67db3d00-b839-11eb-957a-447cc0dd5cb2.png)
 
 
 
